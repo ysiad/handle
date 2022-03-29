@@ -7,8 +7,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext=.ts,.vue",
     "update": "TEST=true vite-node tools/update.ts",
-    "test": "vitest",
-    "start": "pnpm dev"
+    "test": "vitest"
   },
   "dependencies": {
     "@iconify-json/ri": "^1.1.1",
